@@ -12,16 +12,22 @@
         --background-color: #d3d3d3;
         --background-color-start: #e7e7e7;
         --background-color-end: #1a1a1a;
+        --accent-color: var(--text-color);
+        --label-stroke: var(--page-background);
+        --mix-blend-color: var(--page-background);
+        
 }
 
 :root.theme-dark {  
-  
+    --title-font-weight: "wght" 785;
+    --text-font-weight: "wght" 465;
+    --text-color: #00CC14;
+    --page-background:  #000000;
+    --background-color: var(--page-background);
+    --background-color-start: #007f0c;
+    --background-color-end: #004306;
+    --accent-color: var(--text-color);
+    --label-stroke: var(--page-background);
+    --mix-blend-color: var(--text-color);
 
-            --title-font-weight: "wght" 785;
-            --text-font-weight: "wght" 465;
-            --text-color: #00CC14;
-            --page-background:  #000000;
-            --background-color: var(--page-background);
-            --background-color-start: #007f0c;
-            --background-color-end: #004306;
 }
