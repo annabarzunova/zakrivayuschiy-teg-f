@@ -14,8 +14,7 @@
         --background-color-end: #1a1a1a;
         --accent-color: var(--text-color);
         --label-stroke: var(--page-background);
-        --mix-blend-color: var(--page-background);
-        
+        --mix-blend-color: var(--page-background);       
 }
 
 :root.theme-dark {  
@@ -29,5 +28,4 @@
     --accent-color: var(--text-color);
     --label-stroke: var(--page-background);
     --mix-blend-color: var(--text-color);
-
 }
