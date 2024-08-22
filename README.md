@@ -8,7 +8,3 @@
 * Работа с флексами
 * Работа с анимацией
 
-[ссылка на репозиторий](https://github.com/annabarzunova/zakrivayuschiy-teg-f.git)
-
-
-[def]: https://github.com/annabarzunova/zakrivayuschiy-teg-f.git
