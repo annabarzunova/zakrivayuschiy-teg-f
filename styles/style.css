@@ -162,10 +162,6 @@
   transform: translateX(0);
 }
 
-.button:hover::before {
-  transform: translateX(0);
-}
-
 .button:focus-visible {
   box-shadow: 2px 2px 0px 0px var(--text-color);
 }
