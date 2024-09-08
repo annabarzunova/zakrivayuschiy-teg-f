@@ -431,7 +431,7 @@
   cursor: pointer;
   position: relative;
   display: flex;
-  margin: 0 auto 80px;
+  margin: 0 auto;
   gap: 8px;
   width: 340px;
   height: 55px;
@@ -481,15 +481,6 @@
   color: var(--text-color);
   background: var(--page-background);
   border: 2px solid var(--accent-color);
-  margin-top: 384.5px;
-  margin-left: 543.5px;
-}
-
-@media (width <= 375px) {
-  .dialog {
-    margin-top: 238px;
-    margin-left: 17px;
-  }
 }
 
 .dialog::backdrop {
